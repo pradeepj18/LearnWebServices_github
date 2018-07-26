@@ -1,0 +1,11 @@
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\bin\Debug\netcoreapp2.0\LearnWebAPIs.deps.json
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\bin\Debug\netcoreapp2.0\LearnWebAPIs.runtimeconfig.json
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\bin\Debug\netcoreapp2.0\LearnWebAPIs.runtimeconfig.dev.json
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\bin\Debug\netcoreapp2.0\LearnWebAPIs.dll
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\bin\Debug\netcoreapp2.0\LearnWebAPIs.pdb
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\obj\Debug\netcoreapp2.0\LearnWebAPIs.csproj.CoreCompileInputs.cache
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\obj\Debug\netcoreapp2.0\LearnWebAPIs.AssemblyInfoInputs.cache
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\obj\Debug\netcoreapp2.0\LearnWebAPIs.AssemblyInfo.cs
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\obj\Debug\netcoreapp2.0\LearnWebAPIs.dll
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\obj\Debug\netcoreapp2.0\LearnWebAPIs.pdb
+C:\Users\pj18c\source\repos\LearnWebAPIs\LearnWebAPIs\obj\Debug\netcoreapp2.0\LearnWebAPIs.csprojAssemblyReference.cache
